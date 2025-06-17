@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/plutzilla-omnisend-mcp-badge.png)](https://mseep.ai/app/plutzilla-omnisend-mcp)
+
 # Omnisend MCP Server
 
 A Model Context Protocol (MCP) server that integrates with Omnisend API V5, written in TypeScript.
